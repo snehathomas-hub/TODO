@@ -1,7 +1,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-image: PUBLIC_URL(images/back6.jpg);
+  background-image: URL(images/back6.jpg);
   background-color:coral;
   background-repeat: no-repeat;
   background-size: cover;  
