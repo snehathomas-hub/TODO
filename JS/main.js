@@ -16,7 +16,7 @@ function tableFromJson(){
     $(".container").html(output);
   });
   
-  
+  }
 
 }
 
