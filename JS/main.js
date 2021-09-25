@@ -16,13 +16,7 @@ function tableFromJson(){
     $(".container").html(output);
   });
   
-  $("input[type=checkbox][name=test]").change(function() {
-    alert("jooo");
-  var numberOfChecked = $('input:checkbox:checked').length;
-  var totalCheckboxes = $('input:checkbox').length;
-  console.log(totalCheckboxes);
-  });
-});
+  
 
 }
 
